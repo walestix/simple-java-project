@@ -41,9 +41,9 @@
                             <artifactItems>
                                 <artifactItem>
                                     <groupId>org.eclipse.jetty</groupId>
-                                    <artifactId>jetty-runner</artifactId>
+                                    <artifactId>automate</artifactId>
                                     <version>9.3.3.v20150827</version>
-                                    <destFileName>jetty-runner.jar</destFileName>
+                                    <destFileName>aotomate.jar</destFileName>
                                 </artifactItem>
                             </artifactItems>
                         </configuration>
